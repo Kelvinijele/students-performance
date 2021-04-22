@@ -1,1 +1,4 @@
 # students-performance
+
+This data set consists of the marks secured by the students in various subjects. so i Plot a graph showing the parental level of education and score in the math test for the male students in the group A at some college with standard lunch. and Determine the percentage of both male and female in the C and D group, Plot a graph showing the highest math score of both gender in all groups also showing the average number of females whose parental level of education is at the master degree, 	On the  graph i show the highest and lowest scores in the reading test in an acceding order, and Ploting  a graph showing the highest and lowest scores in the writing test also Showing the percentage of both gender who had standard and free/reduced lunch, i Determine the percentage pf of females in group A and    
+    © 2021 GitHub, Inc.
